@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/lfrakie/developer/depruebas/wasm/test-wstime/http-req/http-req-ws/target/wasm32-wasi/debug/build/typenum-c49bbab75d5c983e/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/lfrakie/developer/depruebas/wasm/test-wstime/http-req/http-req-ws/target/wasm32-wasi/debug/build/typenum-c49bbab75d5c983e/out/op.rs
